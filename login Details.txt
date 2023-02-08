@@ -1,0 +1,11 @@
+for Admin panel credential
+User Name: admin@gmail.com
+password : admin
+
+for user panel credential
+username : kaazif@gmail.com
+password: 123
+
+add the database file in xmapp server (cms)
+if you want to check the System how does it works then, copy the files in (check system pdf) and (just) and paste in on your computer Drive (E) dont need to make a a folder just paste on your Driver (E) in your local machine.
+Thank you have nice day!!!!!!.....................
